@@ -9,6 +9,9 @@ All data in this export has been fully anonymized. Names, addresses,
 phone numbers, emails, and tax IDs are placeholders; the structure
 and volume reflect real business history.
 
+![ER Diagram](er_diagram.png)
+
+
 ## What it tracked
 
 - **8 tables**: companies, sub_stores, subcontractors, work_orders,
